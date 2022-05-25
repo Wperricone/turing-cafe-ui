@@ -13,7 +13,6 @@ const Reservations = ( {reservationsData} ) => {
     date={reservation.date}
     time={reservation.time}
     numberOfGuests={reservation.number}
-
   />
 
   )
