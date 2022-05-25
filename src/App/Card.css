@@ -1,0 +1,13 @@
+.card {
+  box-sizing: border-border-box;
+  border: 3px solid teal;
+  padding: 10px;
+  background-color: #FFF;
+  color: teal;
+}
+
+button {
+  background-color: teal;
+  color: #FFF;
+  cursor: pointer;
+}
